@@ -1,0 +1,191 @@
+
+.greycontent {
+	font-size: 14px;
+	font-family: Omnes, "Arial", Helvetica, sans-serif;
+	color:#343434;
+	word-spacing:2px;
+}
+
+.blackcontent {
+	font-size: 14px;
+	font-family: Omnes, "Arial", Helvetica, sans-serif;
+	color:#222222;
+}
+
+/* ------------------------------- CONTENT FRAMEWORK ------------------------------- */
+
+#subtop{
+	float:left;
+	height:23px;
+	width:1000px;
+	background:#fff url("/kidsite/images/subtop1.jpg") top no-repeat;
+	padding-top:11px;
+	}
+
+#subtop1{
+	height:53px;
+	width:1000px;
+	background:#fff url("/kidsite/images/newmenubar3.png") top repeat-x;
+	padding-top:1px;
+	margin:0 auto;
+	}
+#subtop2
+{
+    font-family:Verdana;
+	height:25px;
+	width:1000px;
+	background:#2c1c1b;
+	font-size:0.9em;
+	letter-spacing:0.2em;
+	font-weight:bold;
+	color:White;
+	text-align:center;
+	clear:both;
+	margin:0 auto;
+	top:-5px;
+	line-height:20px;
+	}
+	
+#logoleft 
+{
+    padding-top:14px;
+    float:left;
+}
+#logoright
+{
+    padding-top:11px;
+    float:right;
+}
+
+#menuleft 
+{
+    padding-top:0px;
+    padding-left:30px;
+    float:left;
+    height:50px;
+}
+
+#menuright
+{
+    padding-top:10px;
+    float:right;
+}
+
+#sidea-a {
+	float:left;
+	height:0 auto;
+	width:175px;
+	padding-left:18px;
+	padding-right:18px;
+	padding-top:15px;
+	}
+	
+#sidea-b {
+	float:left;
+    background:white;
+	height:0 auto;
+	width:545px;
+	padding-left:13px;
+	padding-right:13px;
+	padding-top:15px;
+	margin-top:1px;
+	}
+	
+#sidea-c {
+	float:left;
+	height:0 auto;
+	width:198px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:15px;
+	}
+	
+#submenu {
+	clear:both;
+	background:url("/kidsite/images/line.png") top repeat-x;
+	padding-top:17px;
+	height:0 auto;
+	min-width:930px;
+	width:100%;
+	position:relative;	
+	}		
+#bottom {
+	clear:both;
+	height:0 auto;	
+	min-width:930px;
+	width:100%;
+	position:relative;
+	background:#12161a;
+	}	
+
+#sideb1 {
+	float:left;
+    background:#fff;
+	height:0 auto;
+	width:578px;
+	padding-top:28px;
+	padding-left:27px;
+	padding-right:29px;
+	
+	}
+#sidec1 {
+	float:right;
+    background:url("/kidsite/images/sidecmain.png") top repeat-y;
+	height:0 auto;
+	width:248px;
+	padding-top:28px;
+	padding-bottom:28px;
+	padding-left:28px;
+	padding-right:28px;
+	}
+
+/* ----------------footer------------------------------------ */
+
+#footer 
+{
+	width:100%;
+    background:url("/kidsite/images/brownfooter.jpg")  top repeat;
+	float:left;
+    color:white;
+    height:250px;
+    margin:0 auto;
+	}
+
+#footer-wood 
+{
+    width:995px;
+    padding-top:10px;
+    background:url('/kidsite/images/newfooter.png') top no-repeat;
+    margin:0 auto;
+    height:225px;
+}
+
+#howstart 
+{
+    float:right;
+    padding-right:60px;
+}
+
+#howhelp 
+{
+    float:right;
+    padding-right:60px;
+}
+
+#lower-menu
+{
+    float:left;
+    width:620px;
+    font-size:16px;
+    padding-left:50px;
+}
+
+#cpyright
+{
+    text-align:left;
+    float:left;
+    padding-left:20px;
+    font-size:14px;
+    width:200px;
+    color:White;
+}
