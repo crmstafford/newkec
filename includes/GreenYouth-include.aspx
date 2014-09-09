@@ -136,7 +136,7 @@
                             because without nature we cannot survive. He believes we all need to work together to protect nature and
                             all the animals in it because they all contribute their part to the ecosystem. 
                             <br /><br />
-                            
+                             <asp:Image id="Image4a" runat="server" imageurl="/images/turtle-bag.jpg" width="300px" imagealign="Left" bordercolor="White" borderwidth="5px" alt="Ban Plastic Bags in San Diego" />                           
                              <a href="http://www.change.org/petitions/mayor-of-san-diego-and-the-san-diego-city-council-please-ban-single-use-plastic-bags-in-san-diego" target="_blank" alt="Ban Plastic Bags in San Diego">
                             <b>Please ban single use plastic bags in San Diego</b><br />
                             - Please click here to sign my petition to the Mayor of San Diego and the San Diego City Council.</a>
