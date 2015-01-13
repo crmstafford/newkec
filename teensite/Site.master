@@ -123,6 +123,7 @@
                     <div class="grey" id="sideb">
                     </div>
             </div>
+<!-- I don't know why this extra /div is necessary but without it, the footer is treated as part of the wrap div - CRS -->
             </div>
             <div id="footer" style="color:#ffffff;" >
                 <div id="footer-wood" align="center">
