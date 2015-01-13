@@ -31,6 +31,7 @@
                         <a href="https://twitter.com/KidsEcoClub" target="_blank"><img src="/images/social/twitter42.png" /></a>
                         <a href="http://vimeo.com/kidsecoclub" target="_blank"><img src="/images/social/vimeo42.png" /></a>
                         <a href="https://www.youtube.com/channel/UCmjhh7kQfSTe0BQtotR81zw?feature=watch" target="_blank"><img src="/images/social/youtube42.png" /></a>
+                        <a href="http://www.instagram.com/kidsecoclub" target="_blank"><img src="/images/social/instagram42.png" height="36px", alt="" /></a>
 <!--
                         <a href="#" target="_blank"><img src="/images/social/linkedin42.png" /></a>
 -->
@@ -128,7 +129,7 @@
                         <div id="cpyright" style="font-weight:normal;">
 <!--#include file="../includes/copyright-include.aspx" -->
                             <span style="color:Black;font-size:11px;">
-                            <br />Last updated: 1/12/2015
+                            <br />Last updated: 1/13/2015
                             </span>
                         </div>
                         <div align="left" style="font-weight:normal;">
