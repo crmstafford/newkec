@@ -143,7 +143,7 @@
             Try
                 Dim timeNow As String = DateTime.Now.ToString()
                 Dim dbMail As MailSender = New MailSender()
-                dbMail.Host = "smtp.s4software.com"
+                 dbMail.Host = "nsmtp.s4software.com"
                 dbMail.From = "volunteer@kidsecoclub.org"
                 dbMail.Subject = "Volunteer Application: " & txt_firstName.Text & " " & txt_lastName.Text
                 dbMail.AddAddress("volunteerdb@kidsecoclub.org")
@@ -163,7 +163,7 @@
                 dbMail.Send()
 
                 Dim objMail As MailSender = New MailSender()
-                objMail.Host = "smtp.s4software.com"
+                objMail.Host = "nsmtp.s4software.com"
                 objMail.From = "volunteer@kidsecoclub.org"
                 objMail.Subject = "Volunteer Application: " & txt_firstName.Text & " " & txt_lastName.Text
                 objMail.AddAddress("volunteer@kidsecoclub.org")

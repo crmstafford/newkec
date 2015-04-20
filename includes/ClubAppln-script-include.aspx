@@ -43,7 +43,7 @@
              Try
                  Dim objMail As MailSender = New MailSender()
                  Dim timeNow As String = DateTime.Now.ToString()
-                 objMail.Host = "smtp.s4software.com"
+                 objMail.Host = "nsmtp.s4software.com"
                  objMail.From = "clubadmin@kidsecoclub.org"
                  objMail.Subject = "Your KidsEcoClub application"
                  objMail.AddAddress(txt_email.Text)
